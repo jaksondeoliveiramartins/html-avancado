@@ -1,0 +1,1 @@
+#  Imagens responsivas usando a tag picture.
